@@ -35,7 +35,7 @@ public/mix-manifest.json
 
 public/themes
 public/docs
-resources/docs
+resources/doc
 
 .phpunit.result.cache
 /storage/.license
